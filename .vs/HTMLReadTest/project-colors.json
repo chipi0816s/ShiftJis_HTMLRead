@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c4857568-8b61-47fd-a3bc-19eb593d7752": {
+      "ProjectGuid": "c4857568-8b61-47fd-a3bc-19eb593d7752",
+      "DisplayName": "HTMLReadTest",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "その他のファイル",
+      "ColorIndex": -1
+    },
+    "ce3bd836-6fcd-4855-8707-e75683c75b02": {
+      "ProjectGuid": "ce3bd836-6fcd-4855-8707-e75683c75b02",
+      "DisplayName": "GetHTMLService",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

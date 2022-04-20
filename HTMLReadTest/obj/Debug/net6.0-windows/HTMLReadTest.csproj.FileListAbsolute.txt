@@ -1,0 +1,14 @@
+C:\Users\ninnt\source\repos\HTMLReadTest\HTMLReadTest\bin\Debug\net6.0-windows\HTMLReadTest.deps.json
+C:\Users\ninnt\source\repos\HTMLReadTest\HTMLReadTest\bin\Debug\net6.0-windows\HTMLReadTest.dll
+C:\Users\ninnt\source\repos\HTMLReadTest\HTMLReadTest\bin\Debug\net6.0-windows\ref\HTMLReadTest.dll
+C:\Users\ninnt\source\repos\HTMLReadTest\HTMLReadTest\bin\Debug\net6.0-windows\HTMLReadTest.pdb
+C:\Users\ninnt\source\repos\HTMLReadTest\HTMLReadTest\obj\Debug\net6.0-windows\HTMLReadTest.csproj.AssemblyReference.cache
+C:\Users\ninnt\source\repos\HTMLReadTest\HTMLReadTest\obj\Debug\net6.0-windows\HTMLReadTest.MainWindow.resources
+C:\Users\ninnt\source\repos\HTMLReadTest\HTMLReadTest\obj\Debug\net6.0-windows\HTMLReadTest.csproj.GenerateResource.cache
+C:\Users\ninnt\source\repos\HTMLReadTest\HTMLReadTest\obj\Debug\net6.0-windows\HTMLReadTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninnt\source\repos\HTMLReadTest\HTMLReadTest\obj\Debug\net6.0-windows\HTMLReadTest.AssemblyInfoInputs.cache
+C:\Users\ninnt\source\repos\HTMLReadTest\HTMLReadTest\obj\Debug\net6.0-windows\HTMLReadTest.AssemblyInfo.cs
+C:\Users\ninnt\source\repos\HTMLReadTest\HTMLReadTest\obj\Debug\net6.0-windows\HTMLReadTest.csproj.CoreCompileInputs.cache
+C:\Users\ninnt\source\repos\HTMLReadTest\HTMLReadTest\obj\Debug\net6.0-windows\HTMLReadTest.dll
+C:\Users\ninnt\source\repos\HTMLReadTest\HTMLReadTest\obj\Debug\net6.0-windows\ref\HTMLReadTest.dll
+C:\Users\ninnt\source\repos\HTMLReadTest\HTMLReadTest\obj\Debug\net6.0-windows\HTMLReadTest.pdb
