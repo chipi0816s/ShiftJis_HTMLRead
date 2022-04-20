@@ -50,7 +50,6 @@
             this.urlText.Name = "urlText";
             this.urlText.Size = new System.Drawing.Size(705, 23);
             this.urlText.TabIndex = 1;
-            this.urlText.Text = "https://www.e-zoa.com/ITEM/ITM0015784902";
             // 
             // label1
             // 
