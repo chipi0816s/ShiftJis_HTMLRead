@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4LployMSNAnVDZb4pKeJLzG1VecEzjkE6HXNGg4MbjBrlqnFubnzz1t/dBvtiVuWEC9yRxXKfl/Pzu41JF5Prg==",
+  "dgSpecHash": "Qz3jX7sGLalU0b4VbmPaHet2uituu+LoLG2cT5Jr9oUKdrXVRKj+E7cLqou2LwsM+dam3+poIN/rfOV/2m+AVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lmist\\Desktop\\HTMLReadTest\\HTMLReadTest\\HTMLReadTest.csproj",
+  "projectFilePath": "C:\\Users\\lmist\\Documents\\ShiftJis_HTMLRead\\HTMLReadTest\\HTMLReadTest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lmist\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.23\\microsoft.windows.sdk.net.ref.10.0.22000.23.nupkg.sha512"
+    "C:\\Users\\lmist\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.23\\microsoft.windows.sdk.net.ref.10.0.17763.23.nupkg.sha512"
   ],
   "logs": []
 }
