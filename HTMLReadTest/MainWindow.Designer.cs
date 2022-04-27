@@ -32,15 +32,16 @@
             this.urlText = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.ResultText = new System.Windows.Forms.TextBox();
+            this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(713, 41);
+            this.button1.Location = new System.Drawing.Point(697, 41);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(91, 23);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "サイトアクセス";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -62,18 +63,29 @@
             // 
             // ResultText
             // 
-            this.ResultText.Location = new System.Drawing.Point(12, 263);
+            this.ResultText.Location = new System.Drawing.Point(12, 70);
             this.ResultText.Multiline = true;
             this.ResultText.Name = "ResultText";
             this.ResultText.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.ResultText.Size = new System.Drawing.Size(776, 175);
+            this.ResultText.Size = new System.Drawing.Size(776, 368);
             this.ResultText.TabIndex = 3;
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(16, 41);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 4;
+            this.button2.Text = "動作テスト";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // MainWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.ResultText);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.urlText);
@@ -91,5 +103,6 @@
         private TextBox urlText;
         private Label label1;
         private TextBox ResultText;
+        private Button button2;
     }
 }

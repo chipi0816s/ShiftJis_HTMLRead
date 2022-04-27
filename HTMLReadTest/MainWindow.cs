@@ -40,5 +40,19 @@ namespace HTMLReadTest
 
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                GetHTMLClass getHTML = new GetHTMLClass();
+                string value =  getHTML.DllTestString();
+                ResultText.Text = value;
+            }
+            catch (Exception exc)
+            {
+                MessageBox.Show(exc.Message);
+            }
+        }
     }
 }

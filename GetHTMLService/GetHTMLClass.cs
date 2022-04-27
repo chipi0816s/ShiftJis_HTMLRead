@@ -13,6 +13,12 @@ namespace GetHTMLService
 {
     public class GetHTMLClass
     {
+
+        /// <summary>
+        /// HTML取得処理
+        /// </summary>
+        /// <param name="uri">接続するサイトのURL</param>
+        /// <returns></returns>
         public async Task<string> GetAsync(string uri)
         {
             var client = new HttpClient();
@@ -34,6 +40,16 @@ namespace GetHTMLService
             {
                 return await reader.ReadToEndAsync();
             }
+        }
+
+        /// <summary>
+        /// DLLが正しく使えてるかのテスト用呼び出しメソッド
+        /// </summary>
+        /// <returns></returns>
+        public String DllTestString()
+        {
+            string dayTime = DateTime.Now.ToString();
+            return dayTime + "-- DLLが使えました";
         }
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\lmist\Documents\ShiftJis_HTMLRead\GetHTMLService\bin\Release\net6.0\win10-x64\GetHTMLService.deps.json
+C:\Users\lmist\Documents\ShiftJis_HTMLRead\GetHTMLService\bin\Release\net6.0\win10-x64\GetHTMLService.dll
+C:\Users\lmist\Documents\ShiftJis_HTMLRead\GetHTMLService\bin\Release\net6.0\win10-x64\GetHTMLService.pdb
+C:\Users\lmist\Documents\ShiftJis_HTMLRead\GetHTMLService\obj\Release\net6.0\win10-x64\GetHTMLService.csproj.AssemblyReference.cache
+C:\Users\lmist\Documents\ShiftJis_HTMLRead\GetHTMLService\obj\Release\net6.0\win10-x64\GetHTMLService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmist\Documents\ShiftJis_HTMLRead\GetHTMLService\obj\Release\net6.0\win10-x64\GetHTMLService.AssemblyInfoInputs.cache
+C:\Users\lmist\Documents\ShiftJis_HTMLRead\GetHTMLService\obj\Release\net6.0\win10-x64\GetHTMLService.AssemblyInfo.cs
+C:\Users\lmist\Documents\ShiftJis_HTMLRead\GetHTMLService\obj\Release\net6.0\win10-x64\GetHTMLService.csproj.CoreCompileInputs.cache
+C:\Users\lmist\Documents\ShiftJis_HTMLRead\GetHTMLService\obj\Release\net6.0\win10-x64\GetHTMLService.dll
+C:\Users\lmist\Documents\ShiftJis_HTMLRead\GetHTMLService\obj\Release\net6.0\win10-x64\refint\GetHTMLService.dll
+C:\Users\lmist\Documents\ShiftJis_HTMLRead\GetHTMLService\obj\Release\net6.0\win10-x64\GetHTMLService.pdb
+C:\Users\lmist\Documents\ShiftJis_HTMLRead\GetHTMLService\obj\Release\net6.0\win10-x64\ref\GetHTMLService.dll

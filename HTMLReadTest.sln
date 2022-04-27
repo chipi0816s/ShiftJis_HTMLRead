@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTMLReadTest", "HTMLReadTest\HTMLReadTest.csproj", "{C4857568-8B61-47FD-A3BC-19EB593D7752}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetHTMLService", "GetHTMLService\GetHTMLService.csproj", "{CE3BD836-6FCD-4855-8707-E75683C75B02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetHTMLService", "GetHTMLService\GetHTMLService.csproj", "{CE3BD836-6FCD-4855-8707-E75683C75B02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
